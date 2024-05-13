@@ -1,0 +1,9 @@
+SpeechRecognition==3.10.3
+typing_extensions==4.11.0
+g4f==0.3.1.0
+torch==2.3.0
+sounddevice==0.4.6
+omegaconf==2.4.0.dev3
+ipython==8.24.0
+pydub==0.25.1
+pyautogui==0.9.54
